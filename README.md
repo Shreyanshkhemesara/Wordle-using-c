@@ -10,4 +10,7 @@ A group project under the course IT215 (System-Software).
 - Child.c is the file that checks the input user word and returns the desired results.
 
 > Team Members:
-> Shreyansh Khemesara, Aditya Raj, Vaibhav Jindal, Preksha Anand.
+- Shreyansh Khemesara
+- Aditya Raj
+- Vaibhav Jindal 
+- Preksha Anand.
