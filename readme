@@ -1,2 +1,13 @@
-.out file for parent.c is wordle.out, it is where the input is taken and the child.out file is the file which has the wordle logic implemented. Wordle is a word guessing game which gives 5 attemps to guess the correct word. The probable words are of length 5. We implemented the same with the use of process management, interprocess communication and file i/o. 
-The child and parent .c files are explanatory with the comments written in it.
+# WORDLE-C
+## Implemented wordle using C
+A group project under the course IT215 (System-Software).
+- Use of File I\O
+- Pointers in C are used as well.
+
+## Information
+
+- Parent.c is wordle output file. It takes input.
+- Child.c is the file that checks the input user word and returns the desired results.
+
+> Team Members:
+> Shreyansh Khemesara, Aditya Raj, Vaibhav Jindal, Preksha Anand.
